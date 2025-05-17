@@ -11,7 +11,7 @@ public class geometry2D {
     }
 
     public float getLength(){return length;}
-    public float getBreadth(){ return breadth;};
+    public float getBreadth(){ return breadth;}
 
     public void setLength(float length){this.length=length;};
     public void setBreadth(float breadth){this.breadth=breadth;};
